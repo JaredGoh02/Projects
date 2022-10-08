@@ -6,4 +6,5 @@ Milestone 4 Task 3 with Marker Integration
     - Map Generation
     - Autonomous Path navigation
     - Fruit Detection using YOLO
+- Skeleton codes were provided for the project but items such as training of models, calibration,iImplementation of path algorithms were created by the students
 
